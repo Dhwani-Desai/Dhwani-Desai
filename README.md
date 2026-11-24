@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Dhwani Desai
 
-<!--
-**Dhwani-Desai/Dhwani-Desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc Artificial Intelligence Student | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pursuing MSc Artificial Intelligence at the University of South Wales, UK.
+- Bachelor's degree in Information Technology.
+- Skilled in Python and Machine Learning.
+- Currently learning Deep Learning, Natural Language Processing, Computer Vision and Data Analysis.
+- Building practical AI and Machine Learning projects.
+- Interested in AI and Machine Learning internship opportunities.
+
+## Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Currently Exploring
+
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Data Analysis
+- Generative AI
+
+## Certifications
+
+- Supervised Learning with scikit-learn — DataCamp
+- Prompt Engineering with the OpenAI API — DataCamp
+- Introduction to Python for Developers — DataCamp
+- Working with the OpenAl API — DataCamp
+
+## Projects
+
+Currently building end-to-end Machine Learning projects involving:
+
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Model training and evaluation
+- Hyperparameter tuning
+
+## Connect With Me
+
+[[LinkedIn](YOUR_LINKEDIN_PROFILE_URL)](https://www.linkedin.com/in/dhwani-desai-56579441b/)
+
+---
+
+*Learning, building and growing in the world of Artificial Intelligence.*
+
